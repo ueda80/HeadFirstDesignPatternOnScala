@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/strategy_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MiniDuckSimulator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/MiniDuckSimulator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MiniDuckSimulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/MiniDuckSimulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuackBehavior.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/QuackBehavior.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MallardDuck$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/MallardDuck$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MuteQuack.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/MuteQuack.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Squeak.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/Squeak.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Quack.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/Quack.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ModelDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/ModelDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlyBehavior.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/FlyBehavior.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ModelDuck$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/ModelDuck$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlyRocketPowered.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/FlyRocketPowered.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlyWithWings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/FlyWithWings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Duck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/Duck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MallardDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/MallardDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlyNoWay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Strategy/target/scala-2.13/classes/FlyNoWay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
