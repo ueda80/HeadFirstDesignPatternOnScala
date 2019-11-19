@@ -1,4 +1,5 @@
-abstract class Duck(var flyBehavior: FlyBehavior, var quackBehavior: QuackBehavior) {
+abstract class Duck(var flyBehavior: FlyBehavior,
+                    var quackBehavior: QuackBehavior) {
   def display(): Unit
 
   def performFly(): Unit = {
