@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/observer_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/classes/WeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/classes/Observer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CurrentConditionsDisplay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/classes/CurrentConditionsDisplay.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherStation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/classes/WeatherStation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Subject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/classes/Subject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherStation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/classes/WeatherStation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DisplayElement.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Observer/target/scala-2.13/classes/DisplayElement.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
