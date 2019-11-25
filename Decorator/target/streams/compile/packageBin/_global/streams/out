@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/decorator_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DarkRoast.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/DarkRoast.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CondimentDecorator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/CondimentDecorator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Beverage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/Beverage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Mocha.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/Mocha.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Soy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/Soy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Espresso.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/Espresso.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Whip.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/Whip.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StarbuzzCoffee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/StarbuzzCoffee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StarbuzzCoffee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/StarbuzzCoffee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HouseBlend.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Decorator/target/scala-2.13/classes/HouseBlend.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
