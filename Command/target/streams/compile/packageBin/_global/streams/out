@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/command_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemoteControl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/RemoteControl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/NoCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LightOnCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/LightOnCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleRemoteControl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/SimpleRemoteControl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemoteLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/RemoteLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GarageDoorOpenCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/GarageDoorOpenCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StereoOnWithCDCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/StereoOnWithCDCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LightOffCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/LightOffCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GarageDoor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/GarageDoor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Stereo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/Stereo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RemoteLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/RemoteLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Light.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/Light.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/work/HeadFirstDesignPatternOnScala/Command/target/scala-2.13/classes/Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

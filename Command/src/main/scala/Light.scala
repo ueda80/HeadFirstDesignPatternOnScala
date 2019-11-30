@@ -1,9 +1,9 @@
-class Light {
+class Light(val name: String) {
   def on(): Unit = {
-    println("on")
+    println(name + " " + "照明がついています")
   }
 
   def off(): Unit = {
-    println("off")
+    println(name + " " + "照明が消えています")
   }
 }
