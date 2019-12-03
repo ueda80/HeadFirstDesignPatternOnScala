@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/adapter_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Duck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/classes/Duck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DuckTestDrive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/classes/DuckTestDrive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MallardDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/classes/MallardDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TurkeyAdapter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/classes/TurkeyAdapter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WildTurkey.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/classes/WildTurkey.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Turkey.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/classes/Turkey.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DuckTestDrive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/tmp/HeadFirstDesignPatternOnScala/Adapter/target/scala-2.13/classes/DuckTestDrive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
