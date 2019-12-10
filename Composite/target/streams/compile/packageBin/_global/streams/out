@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/ueda/work/HeadFirstDesignPatternOnScala/Composite/target/scala-2.13/composite_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ueda/work/HeadFirstDesignPatternOnScala/Composite/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MenuTestDrive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ueda/work/HeadFirstDesignPatternOnScala/Composite/target/scala-2.13/classes/MenuTestDrive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MenuTestDrive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ueda/work/HeadFirstDesignPatternOnScala/Composite/target/scala-2.13/classes/MenuTestDrive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Waitress.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ueda/work/HeadFirstDesignPatternOnScala/Composite/target/scala-2.13/classes/Waitress.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MenuItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ueda/work/HeadFirstDesignPatternOnScala/Composite/target/scala-2.13/classes/MenuItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MenuComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ueda/work/HeadFirstDesignPatternOnScala/Composite/target/scala-2.13/classes/MenuComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ueda/work/HeadFirstDesignPatternOnScala/Composite/target/scala-2.13/classes/Menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
