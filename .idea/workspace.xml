@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7decf39-9542-4594-b3a1-dd6779b27f81" name="Default Changelist" comment="" />
+    <list default="true" id="a7decf39-9542-4594-b3a1-dd6779b27f81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,13 +55,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="503" y="176" key="FileChooserDialogImpl" timestamp="1575973494734">
+    <state x="503" y="176" width="432" height="518" key="FileChooserDialogImpl" timestamp="1576841797932">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state x="503" y="176" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1575973494734" />
-    <state x="158" y="14" key="new project wizard" timestamp="1575973515712">
+    <state x="503" y="176" width="432" height="518" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1576841797932" />
+    <state x="216" y="70" width="1007" height="733" key="SettingsEditor" timestamp="1576841020746">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state x="158" y="14" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1575973515712" />
+    <state x="216" y="70" width="1007" height="733" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1576841020746" />
+    <state x="412" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1576840800772">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="412" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.870@0.0.1440.870" timestamp="1576840800772" />
+    <state x="158" y="14" width="1123" height="842" key="new project wizard" timestamp="1576841808340">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="158" y="14" width="1123" height="842" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1576841808340" />
   </component>
 </project>

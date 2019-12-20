@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/compound_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Quackable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/classes/Quackable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DuckSimulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/classes/DuckSimulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DuckSimulator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/classes/DuckSimulator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DuckCall.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/classes/DuckCall.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RedheadDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/classes/RedheadDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RubberDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/classes/RubberDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MallardDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kazuyuki/repo/HeadFirstDesignPatternOnScala/Compound/target/scala-2.13/classes/MallardDuck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
